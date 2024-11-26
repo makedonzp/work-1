@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const slidesData = [
     "https://i.artfile.me/wallpaper/26-10-2017/1920x1080/raznoe-kosmeticheskie-sredstva--duhi-fla-1255836.jpg",
     "https://gagaru.club/uploads/posts/2023-02/1676432795_gagaru-club-p-dukhi-s-krasivoi-krishkoi-krasivo-81.jpg",
-    "https://www.nastol.com.ua/pic/201906/1920x1080/nastol.com.ua-347326.jpg",
+    "https://svoya.ucoz.ru/_ph/3/558041075.jpg",
     "https://wallscloud.net/img/resize/1920/1080/MM/2019-05-26-women-model-portrait-face-long-hair-Dmitry-Arhar-1208708-wallhere_com.jpg",
     "https://wallscloud.net/img/resize/1920/1080/MM/2019-05-26-1920x1200-px-Alla-Berger-blue-eyes-brunette-eyeliner-eyes-652464-wallhere_com.jpg",
     "../images/slider-last.jpg",
